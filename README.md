@@ -1,1 +1,1 @@
-# Flask dashboard to control BLE peripheral controller
+# Flask dashboard to control BLE peripheral based RPI
